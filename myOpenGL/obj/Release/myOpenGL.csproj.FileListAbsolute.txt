@@ -1,0 +1,10 @@
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Release\myOpenGL.exe.config
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Release\myOpenGL.exe
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Release\myOpenGL.pdb
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.csprojAssemblyReference.cache
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.Form1.resources
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.Properties.Resources.resources
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.csproj.GenerateResource.cache
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.csproj.CoreCompileInputs.cache
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.exe
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Release\myOpenGL.pdb

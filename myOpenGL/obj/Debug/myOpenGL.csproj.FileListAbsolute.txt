@@ -1,0 +1,20 @@
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe.config
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\ניב\Downloads\‏‏תיקיה חדשה (31)\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe.config
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+E:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+e:\projects\fixed\2021_05_24-OpenGL\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
